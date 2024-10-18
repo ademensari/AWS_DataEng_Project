@@ -1,3 +1,4 @@
+![AWSPROJECT drawio (1)](https://github.com/user-attachments/assets/110c621a-4e33-445d-9e6e-fbf351a8282c)
 # AWS_DataEng_Project
 I did a data engineering project using python in AWS. 
 Here is my roadmap: 
